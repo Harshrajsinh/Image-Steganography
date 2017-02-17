@@ -1,5 +1,5 @@
 I’ll be reading from this script to be consistent in the information I provide you and the other people taking part in this study.  Please don’t discuss this study with anyone, as we don’t want other participants to receive any advance information.
 
-You will be using two softwares which are used for control verisons. Our research is finding out which control version system is better for branching and merging. You will get more information about branching and merging later on. 
+You will be using two softwares which are used for control versions. Our research is finding out which control version system is better for branching and merging. You will get more information about branching and merging later on. 
 
 Let’s get started. If you have any questions please let me know.
